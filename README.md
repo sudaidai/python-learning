@@ -41,9 +41,6 @@ Take your Python skills to the next level with advanced topics:
 - [Database Connectivity](advanced-topics/database-connectivity.md): Interacting with databases using Python.
 - [Testing and Debugging](advanced-topics/testing-and-debugging.md): Best practices for testing and debugging Python code.
 
-## Contributing
-If you'd like to contribute to this Python learning repository, please refer to the [contribution guidelines](CONTRIBUTING.md) for details on how to get involved.
-
 ## License
 This repository is licensed under the [MIT License](LICENSE.md). You are free to use, modify, and distribute the content for personal or educational purposes.
 
