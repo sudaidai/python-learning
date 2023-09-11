@@ -17,9 +17,6 @@ If you're new to Python, start here. Follow these steps to set up your Python en
 - [Installation Guide](getting-started/installation.md): Instructions for installing Python on your system.
 - [Hello, Python!](getting-started/hello-python.md): Your first Python program.
 
-## Learning Resources
-- [Online Courses](learning-resources/online-courses.md): A list of recommended online Python courses.
-
 ## Python Basics
 This section covers the fundamental concepts of Python:
 - [Variables and Data Types](python-basics/variables-and-data-types.md): Learn about Python's data types, variables, and how to work with them.
@@ -43,12 +40,6 @@ Take your Python skills to the next level with advanced topics:
 - [Web Development](advanced-topics/web-development.md): Introduction to web frameworks like Flask and Django.
 - [Database Connectivity](advanced-topics/database-connectivity.md): Interacting with databases using Python.
 - [Testing and Debugging](advanced-topics/testing-and-debugging.md): Best practices for testing and debugging Python code.
-
-## Projects
-Apply your Python knowledge by working on real-world projects:
-- [Project 1: ToDo List App](projects/project1-todo-list.md)
-- [Project 2: Web Scraping](projects/project2-web-scraping.md)
-- [Project 3: Simple Web Application](projects/project3-simple-web-app.md)
 
 ## Contributing
 If you'd like to contribute to this Python learning repository, please refer to the [contribution guidelines](CONTRIBUTING.md) for details on how to get involved.
