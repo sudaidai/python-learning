@@ -16,12 +16,9 @@ Welcome to the Python Learning Repository! This repository is designed to help y
 If you're new to Python, start here. Follow these steps to set up your Python environment and get acquainted with the basics:
 - [Installation Guide](getting-started/installation.md): Instructions for installing Python on your system.
 - [Hello, Python!](getting-started/hello-python.md): Your first Python program.
-- [Python IDEs](getting-started/python-ides.md): Overview of popular Python development environments.
 
 ## Learning Resources
 - [Online Courses](learning-resources/online-courses.md): A list of recommended online Python courses.
-- [Books](learning-resources/books.md): Suggested books for Python learners.
-- [Websites and Forums](learning-resources/websites-and-forums.md): Online communities and websites to expand your knowledge.
 
 ## Python Basics
 This section covers the fundamental concepts of Python:
