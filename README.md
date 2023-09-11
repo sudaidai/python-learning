@@ -4,13 +4,10 @@ Welcome to the Python Learning Repository! This repository is designed to help y
 
 ## Table of Contents
 1. [Getting Started](#getting-started)
-2. [Learning Resources](#learning-resources)
-3. [Python Basics](#python-basics)
-4. [Intermediate Python](#intermediate-python)
-5. [Advanced Topics](#advanced-topics)
-6. [Projects](#projects)
-7. [Contributing](#contributing)
-8. [License](#license)
+2. [Python Basics](#python-basics)
+3. [Intermediate Python](#intermediate-python)
+4. [Advanced Topics](#advanced-topics)
+5. [License](#license)
 
 ## Getting Started
 If you're new to Python, start here. Follow these steps to set up your Python environment and get acquainted with the basics:
