@@ -14,7 +14,7 @@ if condition:
 ```
 
 ### else Statement
-The else statement is used to execute a block of code if the condition in the if statement is false.
+The `else` statement is used to execute a block of code if the condition in the if statement is false.
 
 ```python
 if condition:
@@ -24,7 +24,7 @@ else:
 ```
 
 ### elif Statement
-The elif statement is used to specify multiple conditions. If the condition in the if statement is false, Python will check the conditions in the elif statements in order and execute the code block associated with the first true condition.
+The `elif` statement is used to specify multiple conditions. If the condition in the if statement is false, Python will check the conditions in the elif statements in order and execute the code block associated with the first true condition.
 
 ```python
 if condition1:
@@ -38,7 +38,7 @@ else:
 ## Looping Statements
 
 ### for Loop
-The for loop is used to iterate over a sequence (such as a list, tuple, or string) and execute a block of code for each item in the sequence.
+The `for` loop is used to iterate over a sequence (such as a list, tuple, or string) and execute a block of code for each item in the sequence.
 
 ```python
 for item in sequence:
@@ -46,7 +46,7 @@ for item in sequence:
 ```
 
 ### while Loop
-The while loop is used to repeatedly execute a block of code as long as a specified condition is true.
+The `while` loop is used to repeatedly execute a block of code as long as a specified condition is true.
 
 ```python
 while condition:
